@@ -1,0 +1,36 @@
+body {
+	background: black;
+}
+
+table {
+	height: 100%;
+	width: 100%;
+}
+
+#container {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	height: 500px;
+	width: 500px;
+}
+
+.empty {
+	background: black;
+}
+
+.cell {
+	background: aqua;
+}
+
+.startCell {
+	background: royalblue;
+}
+
+.finishCell {
+	background: purple;
+}
+
+.closeCell {
+	background: crimson;
+}
